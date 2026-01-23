@@ -10,5 +10,4 @@ Topics:
 - Variables
 - Conditions
 - Loops
-- Functions# Python-basis
-Beginner Python programs and practice
+- Functions
